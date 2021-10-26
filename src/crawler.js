@@ -4,7 +4,7 @@ const puppeteer = require("puppeteer");
 const NO_LADDER = "There is no ladder to view for this competition";
 
 module.exports.withBrowserPage = async (fn, errCallback, doneCallback) => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const [page] = await browser.pages();
 
   try {
@@ -69,15 +69,30 @@ module.exports.crawlLeague = async ({ page, leagueId }) => {
 };
 
 module.exports.crawlClubsPage = async ({ page }) => {
-  const rows = await page.$$eval("tr", (rows) => {
+  const clubs = await page.$$eval("tr", (rows) => {
     return Array.from(rows, (row) => {
       const [clubName, clubContact] = row.querySelectorAll("td");
       return {
-        clubName: clubName.innerText,
+        clubName: clubName.innerText.replace(/(VIC)/gi, ""),
         clubContact: clubContact.innerText,
       };
     });
   });
 
-  return rows.filter((c) => c.clubName !== "CLUB");
+  return clubs.filter((c) => c.clubName !== "CLUB");
+};
+
+module.exports.crawlNplClubsPage = async ({ page }) => {
+  const data = await page.$$eval(".logo_links", (el) => {
+    return el.map((t) => {
+      const [img] = t.querySelectorAll("img");
+      const clubImg = img ? `https:${img.getAttribute("src")}` : null;
+      return {
+        clubName: t.getAttribute("title"),
+        clubImg,
+      };
+    });
+  });
+
+  return data.filter((c) => c.clubName.indexOf("NPL") === -1);
 };

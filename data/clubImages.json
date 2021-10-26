@@ -1,5 +1,169 @@
 [
   {
+    "clubName": "Altona Magic",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/36/35/96/36359626_1_O.jpg"
+  },
+  {
+    "clubName": "Avondale FC",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/36/60/17/36601789_1_O.jpg"
+  },
+  {
+    "clubName": "Bentleigh Greens",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/36/60/17/36601786_1_O.jpg"
+  },
+  {
+    "clubName": "Dandenong City",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/36/60/17/36601787_1_O.jpg"
+  },
+  {
+    "clubName": "Dandenong Thunder",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/36/60/17/36601788_1_O.jpg"
+  },
+  {
+    "clubName": "Green Gully Cavaliers",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/35/68/45/35684500_1_O.jpg"
+  },
+  {
+    "clubName": "Heidelberg United",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/02/93/13/2931327_1_O.jpg"
+  },
+  {
+    "clubName": "Hume City",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/03/39/47/3394764_1_O.jpg"
+  },
+  {
+    "clubName": "Kingston City",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/02/94/50/2945063_1_O.jpg"
+  },
+  {
+    "clubName": "Melbourne Knights",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/03/39/48/3394831_1_O.jpg"
+  },
+  {
+    "clubName": "Oakleigh Cannons",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/03/39/48/3394822_1_O.jpg"
+  },
+  {
+    "clubName": "Pascoe Vale",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/35/69/40/35694077_1_O.jpg"
+  },
+  {
+    "clubName": "Port Melbourne Sharks",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/36/36/78/36367894_1_O.jpg"
+  },
+  {
+    "clubName": "South Melbourne",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/03/39/48/3394818_1_O.jpg"
+  },
+  {
+    "clubName": "Box Hill",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/03/40/74/3407486_1_O.jpg"
+  },
+  {
+    "clubName": "Eastern Lions",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/36/62/06/36620653_1_O.jpg"
+  },
+  {
+    "clubName": "FC Bulleen Lions",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/02/94/50/2945062_1_O.jpg"
+  },
+  {
+    "clubName": "Goulburn Valley Suns",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/02/94/50/2945045_1_O.jpg"
+  },
+  {
+    "clubName": "Langwarrin SC",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/36/35/94/36359470_1_O.jpg"
+  },
+  {
+    "clubName": "Melbourne City Youth",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/03/40/75/3407503_1_O.jpg"
+  },
+  {
+    "clubName": "Murray United",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/03/40/74/3407495_1_O.jpg"
+  },
+  {
+    "clubName": "Manningham United Blues",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/36/57/72/36577253_1_O.jpg"
+  },
+  {
+    "clubName": "Northcote City",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/03/39/48/3394823_1_O.jpg"
+  },
+  {
+    "clubName": "Springvale White Eagles",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/02/94/50/2945067_1_O.jpg"
+  },
+  {
+    "clubName": "Ballarat City",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/36/10/23/36102315_1_O.jpg"
+  },
+  {
+    "clubName": "Brunswick City",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/03/45/42/3454247_1_O.jpg"
+  },
+  {
+    "clubName": "Geelong Soccer Club",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/36/57/72/36577257_1_O.jpg"
+  },
+  {
+    "clubName": "Melbourne Victory Youth",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/03/40/74/3407494_1_O.jpg"
+  },
+  {
+    "clubName": "North Geelong Warriors",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/03/40/74/3407483_1_O.jpg"
+  },
+  {
+    "clubName": "Moreland City",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/36/60/18/36601832_1_O.jpg"
+  },
+  {
+    "clubName": "Moreland Zebras",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/03/40/98/3409818_1_O.jpg"
+  },
+  {
+    "clubName": "St Albans Saints",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/02/94/50/2945068_1_O.jpg"
+  },
+  {
+    "clubName": "Werribee City",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/03/39/48/3394824_1_O.jpg"
+  },
+  {
+    "clubName": "Whittlesea Ranges",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/02/94/50/2945069_1_O.jpg"
+  },
+  {
+    "clubName": "Alamein FC",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/35/71/10/35711085_1_O.jpg"
+  },
+  {
+    "clubName": "Bayside United",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/35/71/10/35711090_1_O.jpg"
+  },
+  {
+    "clubName": "Box Hill United",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/35/71/44/35714476_1_O.jpg"
+  },
+  {
+    "clubName": "Calder United",
+    "clubImg": "https://www-static4.spulsecdn.net/pics/00/35/71/41/35714115_1_O.jpg"
+  },
+  {
+    "clubName": "Geelong Galaxy United FC",
+    "clubImg": "https://www-static2.spulsecdn.net/pics/00/35/71/44/35714491_1_O.jpg"
+  },
+  {
+    "clubName": "Heidelberg United FC",
+    "clubImg": "https://www-static3.spulsecdn.net/pics/00/35/71/44/35714478_1_O.jpg"
+  },
+  {
+    "clubName": "Southern United FC",
+    "clubImg": "https://www-static1.spulsecdn.net/pics/00/35/71/45/35714504_1_O.jpg"
+  },
+  {
     "clubName": "Caroline Springs George Cross FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/59/84/36598494_1_T.jpg"
   },
@@ -48,40 +212,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/24/41/36244110_1_T.jpg"
   },
   {
-    "clubName": "Caroline Springs George Cross FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954278_1_T.jpg"
-  },
-  {
-    "clubName": "Brimbank Stallions FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/89/1988920_1_T.jpg"
-  },
-  {
-    "clubName": "Whittlesea United SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/45/1994516_1_T.jpg"
-  },
-  {
-    "clubName": "Banyule City SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/24/41/36244112_1_T.jpg"
-  },
-  {
-    "clubName": "FC Clifton Hill",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/41/26/36412677_1_T.jpg"
-  },
-  {
-    "clubName": "Keilor Park SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/85/1988588_1_T.jpg"
-  },
-  {
-    "clubName": "Yarraville FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/22/29/36222943_1_T.jpg"
-  },
-  {
     "clubName": "Altona City SC Reserves",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739678_1_T.jpg"
-  },
-  {
-    "clubName": "Fitzroy City SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771581_1_T.jpg"
   },
   {
     "clubName": "Sydenham Park SC Reserves",
@@ -129,34 +261,6 @@
   {
     "clubName": "Bentleigh United Cobras FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/67/67/1676726_1_T.jpg"
-  },
-  {
-    "clubName": "Malvern City FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/45/71/3457164_1_T.jpg"
-  },
-  {
-    "clubName": "Mornington SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/10/02/36100271_1_T.jpg"
-  },
-  {
-    "clubName": "Boroondara - Carey Eagles",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/74/14/36741481_1_T.jpg"
-  },
-  {
-    "clubName": "South Springvale FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/81/36738112_1_T.jpg"
-  },
-  {
-    "clubName": "Bentleigh United Cobras FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738013_1_T.jpg"
-  },
-  {
-    "clubName": "Beaumaris SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954221_1_T.jpg"
-  },
-  {
-    "clubName": "Casey Comets FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/45/74/3457401_1_T.jpg"
   },
   {
     "clubName": "Hume United FC",
@@ -207,34 +311,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994725_1_T.jpg"
   },
   {
-    "clubName": "Mill Park SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/99/00/2990090_1_T.jpg"
-  },
-  {
-    "clubName": "Westgate FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/23/70/2237077_1_T.jpg"
-  },
-  {
-    "clubName": "Lalor United Senior FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739615_1_T.jpg"
-  },
-  {
-    "clubName": "Albion Rovers FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/62/61/36626165_1_T.jpg"
-  },
-  {
-    "clubName": "Altona East Phoenix SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979458_1_T.jpg"
-  },
-  {
-    "clubName": "Western Suburbs SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/58/15/36581552_1_T.jpg"
-  },
-  {
-    "clubName": "Hume United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/52/35695226_1_T.jpg"
-  },
-  {
     "clubName": "Old Scotch SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/39/01/36390170_1_T.jpg"
   },
@@ -279,28 +355,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/40/96/36409625_1_T.jpg"
   },
   {
-    "clubName": "Knox City FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/19/78/2197827_1_T.jpg"
-  },
-  {
-    "clubName": "Old Scotch SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/95/1979575_1_T.jpg"
-  },
-  {
-    "clubName": "Peninsula Strikers Senior FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/19/37/36193706_1_T.jpg"
-  },
-  {
-    "clubName": "Doncaster Rovers SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/09/77/36097731_1_T.jpg"
-  },
-  {
     "clubName": "Collingwood City FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989020_1_T.jpg"
-  },
-  {
-    "clubName": "North Caulfield Senior FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/11/13/2111399_1_T.jpg"
   },
   {
     "clubName": "Upfield SC",
@@ -351,22 +407,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/72/47/36724784_1_T.jpg"
   },
   {
-    "clubName": "Williamstown SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/72/83/35728390_1_T.jpg"
-  },
-  {
-    "clubName": "Westvale SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/72/47/36724785_1_T.jpg"
-  },
-  {
-    "clubName": "Fawkner SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771579_1_T.jpg"
-  },
-  {
-    "clubName": "Sunbury United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/67/82/1678214_1_T.jpg"
-  },
-  {
     "clubName": "Frankston Pines FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/86/10/1861092_1_T.jpg"
   },
@@ -413,18 +453,6 @@
   {
     "clubName": "Whitehorse United SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/02/26/45/2264533_1_T.jpg"
-  },
-  {
-    "clubName": "Middle Park FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/78/17/36781708_1_T.jpg"
-  },
-  {
-    "clubName": "Frankston Pines FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/86/10/1861081_1_T.jpg"
-  },
-  {
-    "clubName": "Diamond Valley United SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/85/92/3859266_1_T.jpg"
   },
   {
     "clubName": "Chisholm United FC",
@@ -479,10 +507,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/49/36774974_1_T.jpg"
   },
   {
-    "clubName": "Ringwood City FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/49/1994987_1_T.jpg"
-  },
-  {
     "clubName": "Greenvale United SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/47/58/3475860_1_T.jpg"
   },
@@ -531,14 +555,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/64/35696499_1_T.jpg"
   },
   {
-    "clubName": "West Preston SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/72/97/36729760_1_T.jpg"
-  },
-  {
-    "clubName": "La Trobe University SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/66/34/1663429_1_T.jpg"
-  },
-  {
     "clubName": "Noble Park United FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738017_1_T.jpg"
   },
@@ -583,20 +599,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/46/75/3467518_1_T.jpg"
   },
   {
-    "clubName": "Noble Park United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738016_1_T.jpg"
-  },
-  {
     "clubName": "Seaford United SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/76/97/36769720_1_T.jpg"
-  },
-  {
-    "clubName": "Sandown Lions FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/14/49/36144985_1_T.jpg"
-  },
-  {
-    "clubName": "Springvale City SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/23/02/36230287_1_T.jpg"
   },
   {
     "clubName": "Laverton FC",
@@ -645,22 +649,6 @@
   {
     "clubName": "Spring Hills FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/10/58/36105812_1_T.jpg"
-  },
-  {
-    "clubName": "Melbourne University Soccer Club",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/46/35694631_1_T.jpg"
-  },
-  {
-    "clubName": "Gisborne SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/40/70/36407027_1_T.jpg"
-  },
-  {
-    "clubName": "Truganina Hornets SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/92/47/2924792_1_T.jpg"
-  },
-  {
-    "clubName": "Golden Plains SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/09/72/36097258_1_T.jpg"
   },
   {
     "clubName": "Albert Park SC",
@@ -735,32 +723,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/09/64/36096401_1_T.jpg"
   },
   {
-    "clubName": "Yarra Jets FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/18/28/36182875_1_T.jpg"
-  },
-  {
-    "clubName": "Bundoora United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/51/1995162_1_T.jpg"
-  },
-  {
-    "clubName": "Meadow Park Eagles SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/60/36/36603627_1_T.jpg"
-  },
-  {
     "clubName": "Glenroy Lions FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/38/81/36388157_1_T.jpg"
-  },
-  {
-    "clubName": "FC Tullamarine",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/87/36778762_1_T.jpg"
-  },
-  {
-    "clubName": "Keon Park SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/10/50/36105054_1_T.jpg"
-  },
-  {
-    "clubName": "Mitchell Rangers SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/09/64/36096400_1_T.jpg"
   },
   {
     "clubName": "Mentone Soccer Club",
@@ -807,10 +771,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/35/42/3354209_1_T.jpg"
   },
   {
-    "clubName": "Bunyip District SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/69/45/36694539_1_T.jpg"
-  },
-  {
     "clubName": "Pakenham United FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/46/55/3465516_1_T.jpg"
   },
@@ -851,24 +811,12 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/62/42/36624283_1_T.jpg"
   },
   {
-    "clubName": "Ballarat SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/82/36738245_1_T.jpg"
-  },
-  {
-    "clubName": "Boroondara - Carey Eagles",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/78/19/36781987_1_T.jpg"
-  },
-  {
     "clubName": "Preston Lions FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979495_1_T.jpg"
   },
   {
     "clubName": "Southern United Football Club",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/74/45/36744591_1.jfif"
-  },
-  {
-    "clubName": "Casey Comets FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/43/73/3437307_1_T.jpg"
   },
   {
     "clubName": "Geelong Galaxy FC",
@@ -881,10 +829,6 @@
   {
     "clubName": "NCFC Boys U12K",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/02/31/13/2311368_1_T.jpg"
-  },
-  {
-    "clubName": "Casey Comets FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/68/03/36680328_1_T.jpg"
   },
   {
     "clubName": "Glen Eira (Thunder.)",
@@ -935,10 +879,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/02/86/55/2865516_7_T.jpg"
   },
   {
-    "clubName": "Fawkner SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/26/36772633_1_T.jpg"
-  },
-  {
     "clubName": "Moreland Zebras U12 Black",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/42/00/3420065_1_T.jpg"
   },
@@ -983,10 +923,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/02/79/94/2799404_1_T.jpg"
   },
   {
-    "clubName": "North Geelong Warriors",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/52/19/3521934_1_T.jpg"
-  },
-  {
     "clubName": "Green Gully SC White",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/86/1978690_1_T.jpg"
   },
@@ -1011,20 +947,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/35/77/96/35779698_1_T.jpg"
   },
   {
-    "clubName": "Hume City",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/39/46/3394656_1_T.jpg"
-  },
-  {
     "clubName": "Lalor United Junior SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/66/66/36666642_1_T.jpg"
-  },
-  {
-    "clubName": "Watsonia Heights FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/20/36732053_1_T.jpg"
-  },
-  {
-    "clubName": "Heidelberg United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/62/47/1624788_1_T.jpg"
   },
   {
     "clubName": "Banyule City SC U12Wallabies",
@@ -1049,10 +973,6 @@
   {
     "clubName": "Gisborne SC U12 BA",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/40/70/36407077_1_T.jpg"
-  },
-  {
-    "clubName": "FC Clifton Hill",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/41/26/36412678_1_T.jpg"
   },
   {
     "clubName": "Doreen United SC",
@@ -1103,10 +1023,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/25/36772578_1_T.jpg"
   },
   {
-    "clubName": "Hume United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/52/35695217_1_T.jpg"
-  },
-  {
     "clubName": "Fitzroy Lions SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/33/36773394_1_T.jpg"
   },
@@ -1139,10 +1055,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/31/79/36317935_1_T.jpg"
   },
   {
-    "clubName": "Avondale FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/42/00/3420058_1_T.jpg"
-  },
-  {
     "clubName": "Kensington City SC State 4",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/51/62/36516296_1_T.jpg"
   },
@@ -1153,10 +1065,6 @@
   {
     "clubName": "Darebin Falcons Womens SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988648_1_T.jpg"
-  },
-  {
-    "clubName": "Noble Park United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738015_1_T.jpg"
   },
   {
     "clubName": "Barnstoneworth United Senior Football Club (Vic)",
@@ -1187,12 +1095,8 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/74/37/36743751_1_T.jpg"
   },
   {
-    "clubName": "Melbourne Lions SC",
+    "clubName": "Melbourne Lions SC - U15",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/55/1995563_1_T.jpg"
-  },
-  {
-    "clubName": "Clarinda United FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/31/97/36319747_1_T.jpg"
   },
   {
     "clubName": "Gisborne SC U16 B",
@@ -1211,10 +1115,6 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/78/15/36781551_1_T.jpg"
   },
   {
-    "clubName": "Middle Park FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/69/45/36694503_1_T.jpg"
-  },
-  {
     "clubName": "Altona Lions FC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/03/05/23/3052395_1_T.jpg"
   },
@@ -1227,24 +1127,12 @@
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/05/01/36050128_1_T.jpg"
   },
   {
-    "clubName": "Gisborne SC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/40/70/36407030_1_T.jpg"
-  },
-  {
-    "clubName": "Middle Park FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/69/45/36694502_1_T.jpg"
-  },
-  {
     "clubName": "SMWFC U12",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/36/30/35/36303505_1_T.jpg"
   },
   {
     "clubName": "Juventus Old Boys SC",
     "clubImg": "https://www-static.spulsecdn.net/pics/00/02/44/10/2441003_1_T.jpg"
-  },
-  {
-    "clubName": "Middle Park FC",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/69/26/36692698_1_T.jpg"
   },
   {
     "clubName": "Melbourne Rovers Soccer Club",

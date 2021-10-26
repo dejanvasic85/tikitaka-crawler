@@ -1,9 +1,14 @@
 const chalk = require("chalk");
 const dotenv = require("dotenv");
 const fs = require("fs");
-const { partition } = require("lodash");
+const { partition, unionBy } = require("lodash");
 
-const { crawlLeague, crawlClubsPage } = require("./src/crawler");
+const {
+  crawlLeague,
+  crawlClubsPage,
+  crawlNplClubsPage,
+  withBrowserPage,
+} = require("./src/crawler");
 const { parseXml, readFromFile, saveToFile } = require("./src/files");
 const { sleep } = require("./src/sleep");
 const { uploadToS3 } = require("./src/s3");
@@ -13,19 +18,28 @@ dotenv.config();
 
 const urls = {
   clubListingPage: "https://www.footballvictoria.com.au/club-contacts",
+  clubNplPage: "https://websites.mygameday.app/assoc_page.cgi?c=0-10178-0-0-0",
   leagueLadderPage: `https://websites.mygameday.app/comp_info.cgi?c={{id}}&a=LADDER`,
 };
 
 const mapLeagues = ({ data }) =>
   data.select.option.map(({ $: { value } }) => value);
 
-const transformLeagueClubsToClubWithImages = () => {
-  const leagues = readFromFile({ fileName: "./data/leagues.json" });
-  const clubs = getClubsUniqByImg({ leagues });
-  saveToFile({ data: clubs, fileName: "./data/clubImages.json" });
+const transformLeagueClubsToClubWithImages = async () => {
+  await withBrowserPage(async (page) => {
+    const leagues = readFromFile({ fileName: "./data/leagues.json" });
+    const clubs = getClubsUniqByImg({ leagues });
+
+    await page.goto(urls.clubNplPage);
+    const nplClubs = await crawlNplClubsPage({ page });
+
+    const merged = unionBy(nplClubs, clubs, "clubName");
+
+    saveToFile({ data: merged, fileName: "./data/clubImages.json" });
+  });
 };
 
-const transformClubsToClubsWithImages = () => {
+const transformClubsToClubsAndImages = () => {
   const clubImages = readFromFile({ fileName: "./data/clubImages.json" });
   const clubs = readFromFile({ fileName: "./data/clubs.json" });
 
@@ -40,7 +54,7 @@ const transformClubsToClubsWithImages = () => {
 
     return {
       clubName,
-      clubContact,
+      clubContact: clubContact ?? null,
       targetImgName,
       sourceImg: clubImgData?.clubImg ?? null,
     };
@@ -53,7 +67,7 @@ const transformClubsToClubsWithImages = () => {
 
   saveToFile({
     data: [...clubsWithImages, ...clubsWithoutImgs],
-    fileName: "./data/clubsWithImages.json",
+    fileName: "./data/clubsAndImages.json",
   });
 };
 
@@ -96,12 +110,17 @@ const downloadLeagues = async () => {
   );
 };
 
-const downloadClubFromListing = async () => {
+const downloadClubs = async () => {
   await withBrowserPage(async (page) => {
     await page.goto(urls.clubListingPage);
     const clubs = await crawlClubsPage({ page });
+
     saveToFile({ data: clubs, fileName: "./data/clubs.json" });
   });
 };
 
-transformClubsToClubsWithImages();
+const processTargetClubImages = () => {
+  const clubsWithImages = readFromFile("./data/clubsWithImages.json");
+};
+
+transformClubsToClubsAndImages();
