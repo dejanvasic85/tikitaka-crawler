@@ -49,4 +49,4 @@ const main = async () => {
   }
 };
 
-uploadToS3({ fileName: "data/leagues.json" });
+main();
