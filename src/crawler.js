@@ -73,7 +73,7 @@ module.exports.crawlClubsPage = async ({ page }) => {
     return Array.from(rows, (row) => {
       const [clubName, clubContact] = row.querySelectorAll("td");
       return {
-        clubName: clubName.innerText.replace(/(VIC)/gi, ""),
+        clubName: clubName.innerText.replace(/\(VIC\)/gi, "").trim(),
         clubContact: clubContact.innerText,
       };
     });

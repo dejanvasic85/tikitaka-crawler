@@ -9,7 +9,12 @@ const {
   crawlNplClubsPage,
   withBrowserPage,
 } = require("./src/crawler");
-const { parseXml, readFromFile, saveToFile } = require("./src/files");
+const {
+  parseXml,
+  readFromFile,
+  saveToFile,
+  downloadImage,
+} = require("./src/files");
 const { sleep } = require("./src/sleep");
 const { uploadToS3 } = require("./src/s3");
 const { getClubsUniqByImg } = require("./src/clubs");
@@ -25,55 +30,17 @@ const urls = {
 const mapLeagues = ({ data }) =>
   data.select.option.map(({ $: { value } }) => value);
 
-const transformLeagueClubsToClubWithImages = async () => {
+// 1
+const downloadClubs = async () => {
   await withBrowserPage(async (page) => {
-    const leagues = readFromFile({ fileName: "./data/leagues.json" });
-    const clubs = getClubsUniqByImg({ leagues });
+    await page.goto(urls.clubListingPage);
+    const clubs = await crawlClubsPage({ page });
 
-    await page.goto(urls.clubNplPage);
-    const nplClubs = await crawlNplClubsPage({ page });
-
-    const merged = unionBy(nplClubs, clubs, "clubName");
-
-    saveToFile({ data: merged, fileName: "./data/clubImages.json" });
+    saveToFile({ data: clubs, fileName: "./data/clubs.json" });
   });
 };
 
-const transformClubsToClubsAndImages = () => {
-  const clubImages = readFromFile({ fileName: "./data/clubImages.json" });
-  const clubs = readFromFile({ fileName: "./data/clubs.json" });
-
-  const result = clubs.map(({ clubName, clubContact }) => {
-    const clubImgData = clubImages.find(
-      (c) => c.clubName.indexOf(clubName) > -1
-    );
-
-    const targetImgName = clubImgData
-      ? `${clubName.replace(/ /gi, "-").toLowerCase().trim()}.jpg`
-      : null;
-
-    return {
-      clubName,
-      clubContact: clubContact ?? null,
-      targetImgName,
-      sourceImg: clubImgData?.clubImg ?? null,
-    };
-  });
-
-  const [clubsWithImages, clubsWithoutImgs] = partition(
-    result,
-    (c) => c.sourceImg !== null
-  );
-
-  saveToFile({
-    data: [...clubsWithImages, ...clubsWithoutImgs],
-    fileName: "./data/clubsAndImages.json",
-  });
-};
-
-/**
- * Runs the crawler on all the league ladders
- */
+// 2 (long process)
 const downloadLeagues = async () => {
   const startTime = Date.now();
   withBrowserPage(
@@ -110,17 +77,85 @@ const downloadLeagues = async () => {
   );
 };
 
-const downloadClubs = async () => {
+// 3
+const transformLeagueClubsToClubWithImages = async () => {
   await withBrowserPage(async (page) => {
-    await page.goto(urls.clubListingPage);
-    const clubs = await crawlClubsPage({ page });
+    const leagues = readFromFile({ fileName: "./data/leagues.json" });
+    const clubs = getClubsUniqByImg({ leagues });
 
-    saveToFile({ data: clubs, fileName: "./data/clubs.json" });
+    await page.goto(urls.clubNplPage);
+    const nplClubs = await crawlNplClubsPage({ page });
+
+    const merged = unionBy(nplClubs, clubs, "clubName");
+
+    saveToFile({ data: merged, fileName: "./data/clubImages.json" });
   });
 };
 
-const processTargetClubImages = () => {
-  const clubsWithImages = readFromFile("./data/clubsWithImages.json");
+// 4
+const transformClubsToClubsAndImages = () => {
+  const clubImages = readFromFile({ fileName: "./data/clubImages.json" });
+  const clubs = readFromFile({ fileName: "./data/clubs.json" });
+
+  const result = clubs.map(({ clubName, clubContact }) => {
+    const clubImgData = clubImages.find(
+      (c) =>
+        c.clubName.indexOf(clubName) > -1 || clubName.indexOf(c.clubName) > -1
+    );
+
+    const targetImgName = clubImgData
+      ? `${clubName.replace(/ /gi, "-").toLowerCase().trim()}.jpg`
+      : null;
+
+    return {
+      clubName,
+      clubContact: clubContact ?? null,
+      targetImgName,
+      sourceImg: clubImgData?.clubImg ?? null,
+    };
+  });
+
+  const [clubsWithImages, clubsWithoutImgs] = partition(
+    result,
+    (c) => c.sourceImg !== null
+  );
+
+  console.log(
+    chalk.bgGreen(`Clubs with images [${clubsWithImages.length}]`),
+    chalk.bgYellow(`Clubs without images [${clubsWithoutImgs.length}]`)
+  );
+
+  saveToFile({
+    data: [...clubsWithImages, ...clubsWithoutImgs],
+    fileName: "./data/clubsAndImages.json",
+  });
 };
 
-transformClubsToClubsAndImages();
+// 5
+const uploadClubImagesToS3 = async () => {
+  const clubsWithImages = readFromFile({
+    fileName: "./data/clubsAndImages.json",
+  });
+
+  for (const club of clubsWithImages) {
+    if (!club.sourceImg) {
+      continue;
+    }
+
+    await downloadImage({
+      uri: club.sourceImg,
+      filename: `./img/${club.targetImgName}`,
+    });
+
+    await uploadToS3({
+      originalFile: `./img/${club.targetImgName}`,
+      targetFileName: club.targetImgName,
+    });
+
+    console.log(chalk.green(`File ${club.targetFile} upload completed`));
+  }
+
+  console.log(chalk.bgGreen("Completed"));
+};
+
+uploadClubImagesToS3();

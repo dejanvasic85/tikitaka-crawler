@@ -7,13 +7,13 @@ AWS.config.update({
 
 const s3 = new AWS.S3();
 
-const uploadToS3 = async ({ fileName }) => {
-  const fileStream = fs.createReadStream(fileName);
+const uploadToS3 = async ({ originalFile, targetFileName }) => {
+  const fileStream = fs.createReadStream(originalFile);
 
   const params = {
     ACL: "public-read",
     Bucket: "tikitaka",
-    Key: fileName,
+    Key: targetFileName,
     Body: fileStream,
   };
 
