@@ -7,6 +7,7 @@
     "aws-sdk": "^2.1014.0",
     "chalk": "^4.1.2",
     "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "puppeteer": "^10.4.0",
     "puppeteer-core": "^10.4.0",

@@ -1,24 +1,39 @@
 const chalk = require("chalk");
 
-const leagueLadderPage = `https://websites.mygameday.app/comp_info.cgi?c={{id}}&a=LADDER`;
 const NO_LADDER = "There is no ladder to view for this competition";
 
-module.exports.crawlLeague = async ({ browser, leagueId }) => {
+module.exports.withBrowserPage = async (fn, errCallback, doneCallback) => {
+  const browser = await puppeteer.launch({ headless: false });
+  const [page] = await browser.pages();
+
+  try {
+    await fn(page);
+  } catch (err) {
+    if (errCallback) {
+      errCallback(err);
+    }
+  } finally {
+    if (doneCallback) {
+      doneCallback();
+    }
+    browser.close();
+  }
+};
+
+module.exports.crawlLeague = async ({ page, leagueId }) => {
   console.log(chalk.gray(`Crawling league ${leagueId}`));
 
-  await browser.goto(leagueLadderPage.replace("{{id}}", leagueId));
-  const content = await browser.content();
-
+  const content = await page.content();
   if (content.indexOf(NO_LADDER) > -1) {
     console.log(chalk.bgYellow(`leagueId ${leagueId} does not have a ladder`));
     return null;
   }
 
-  const [headingRow, ...clubRowHandles] = await browser.$$(
+  const [headingRow, ...clubRowHandles] = await page.$$(
     ".tableClass > tbody > tr"
   );
 
-  const [leagueName] = await browser.$$eval(".blockHeading", (heading) =>
+  const [leagueName] = await page.$$eval(".blockHeading", (heading) =>
     heading.map((h) => h.innerText.replace("CANCELLED - ", ""))
   );
 
@@ -50,4 +65,18 @@ module.exports.crawlLeague = async ({ browser, leagueId }) => {
   );
 
   return league;
+};
+
+module.exports.crawlClubsPage = async ({ page }) => {
+  const rows = await page.$$eval("tr", (rows) => {
+    return Array.from(rows, (row) => {
+      const [clubName, clubContact] = row.querySelectorAll("td");
+      return {
+        clubName: clubName.innerText,
+        clubContact: clubContact.innerText,
+      };
+    });
+  });
+
+  return rows.filter((c) => c.clubName !== "CLUB");
 };

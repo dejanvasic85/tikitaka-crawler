@@ -24,3 +24,7 @@ module.exports.saveToFile = ({ data, fileName }) => {
   const json = JSON.stringify(data, null, 2);
   fs.writeFileSync(fileName, json);
 };
+
+module.exports.readFromFile = ({ fileName }) => {
+  return JSON.parse(fs.readFileSync(fileName, { encoding: "utf-8" }));
+};
