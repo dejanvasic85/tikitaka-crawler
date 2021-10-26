@@ -1,0 +1,26 @@
+{
+  "name": "tikitaka-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1014.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
