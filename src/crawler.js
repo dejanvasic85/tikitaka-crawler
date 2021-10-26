@@ -1,4 +1,5 @@
 const chalk = require("chalk");
+const puppeteer = require("puppeteer");
 
 const NO_LADDER = "There is no ladder to view for this competition";
 

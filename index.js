@@ -1,7 +1,7 @@
 const chalk = require("chalk");
-const puppeteer = require("puppeteer");
 const dotenv = require("dotenv");
 const fs = require("fs");
+const { partition } = require("lodash");
 
 const { crawlLeague, crawlClubsPage } = require("./src/crawler");
 const { parseXml, readFromFile, saveToFile } = require("./src/files");
@@ -29,18 +29,30 @@ const transformClubsToClubsWithImages = () => {
   const clubImages = readFromFile({ fileName: "./data/clubImages.json" });
   const clubs = readFromFile({ fileName: "./data/clubs.json" });
 
-  const clubsWithImages = clubs.map(({ clubName, clubContact }) => {
-    const clubImgData = clubImages.find((c) => c.clubName === clubName);
+  const result = clubs.map(({ clubName, clubContact }) => {
+    const clubImgData = clubImages.find(
+      (c) => c.clubName.indexOf(clubName) > -1
+    );
+
+    const targetImgName = clubImgData
+      ? `${clubName.replace(/ /gi, "-").toLowerCase().trim()}.jpg`
+      : null;
 
     return {
       clubName,
       clubContact,
-      clubImg: clubImgData?.clubImg ?? null,
+      targetImgName,
+      sourceImg: clubImgData?.clubImg ?? null,
     };
   });
 
+  const [clubsWithImages, clubsWithoutImgs] = partition(
+    result,
+    (c) => c.sourceImg !== null
+  );
+
   saveToFile({
-    data: clubsWithImages,
+    data: [...clubsWithImages, ...clubsWithoutImgs],
     fileName: "./data/clubsWithImages.json",
   });
 };

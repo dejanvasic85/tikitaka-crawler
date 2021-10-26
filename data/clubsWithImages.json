@@ -2,1711 +2,2053 @@
   {
     "clubName": "Albert Park SC",
     "clubContact": "info@albertparksc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988620_1_T.jpg"
+    "targetImgName": "albert-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988620_1_T.jpg"
   },
   {
     "clubName": "Alphington FC",
     "clubContact": "admin@alphingtonfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/88/36738892_1_T.jpg"
-  },
-  {
-    "clubName": "Central Park Soccer Club",
-    "clubContact": "centralparkrangersfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "alphington-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/88/36738892_1_T.jpg"
   },
   {
     "clubName": "Collingwood City FC",
     "clubContact": "collingwoodcity@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989020_1_T.jpg"
+    "targetImgName": "collingwood-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989020_1_T.jpg"
   },
   {
     "clubName": "Elwood City SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989039_1_T.jpg"
+    "targetImgName": "elwood-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989039_1_T.jpg"
   },
   {
     "clubName": "FC Birrarung",
     "clubContact": "fcbirrarung@hotmail.com",
-    "clubImg": null
+    "targetImgName": "fc-birrarung.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/77/96/35779698_1_T.jpg"
   },
   {
     "clubName": "FC Clifton Hill",
     "clubContact": "juniors@fcch.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954141_1_T.jpg"
+    "targetImgName": "fc-clifton-hill.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954141_1_T.jpg"
   },
   {
     "clubName": "Fitzroy City SC",
     "clubContact": "fitzroycitysc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771582_1_T.jpg"
-  },
-  {
-    "clubName": "Kensington Junior Girls SC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "fitzroy-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771582_1_T.jpg"
   },
   {
     "clubName": "Kings Domain FC",
     "clubContact": "secretary@kingsdomainfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/93/05/2930544_1_T.jpg"
+    "targetImgName": "kings-domain-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/93/05/2930544_1_T.jpg"
   },
   {
     "clubName": "Maidstone United SC",
     "clubContact": "maidstoneutd@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/92/86/2928679_1_T.jpg"
+    "targetImgName": "maidstone-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/92/86/2928679_1_T.jpg"
   },
   {
     "clubName": "Malvern City FC",
     "clubContact": "malvernfc@optusnet.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/47/05/3470583_1_T.jpg"
+    "targetImgName": "malvern-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/47/05/3470583_1_T.jpg"
   },
   {
     "clubName": "Maribyrnong Greens SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/08/59/3085991_1_T.jpg"
-  },
-  {
-    "clubName": "Maribyrnong Swifts FC",
-    "clubContact": "maribyrnongswiftsfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "maribyrnong-greens-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/08/59/3085991_1_T.jpg"
   },
   {
     "clubName": "Melbourne Lions SC",
     "clubContact": "melbourne.lions@gmail.com",
-    "clubImg": null
+    "targetImgName": "melbourne-lions-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/55/1995563_1_T.jpg"
   },
   {
     "clubName": "Melbourne University Soccer Club",
     "clubContact": "secretary@musc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/46/35694632_1_T.jpg"
+    "targetImgName": "melbourne-university-soccer-club.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/69/46/35694632_1_T.jpg"
   },
   {
     "clubName": "Middle Park FC",
     "clubContact": "secretary@mpfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/62/65/36626580_1_T.jpg"
+    "targetImgName": "middle-park-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/62/65/36626580_1_T.jpg"
   },
   {
     "clubName": "North Melbourne Athletic FC",
     "clubContact": "northmelbourneafc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/65/35696550_1_T.jpg"
+    "targetImgName": "north-melbourne-athletic-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/69/65/35696550_1_T.jpg"
   },
   {
     "clubName": "Old Melburnians SC",
     "clubContact": "info@omsc.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/74/87/36748772_1_T.jpg"
-  },
-  {
-    "clubName": "Port Melbourne Sharks SC",
-    "clubContact": "info@portmelbournesc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Richmond FC (VIC)",
-    "clubContact": "secretary@richmondsc.com.au",
-    "clubImg": null
+    "targetImgName": "old-melburnians-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/74/87/36748772_1_T.jpg"
   },
   {
     "clubName": "RMIT FC",
     "clubContact": "info@rmitfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/05/01/36050128_1_T.jpg"
-  },
-  {
-    "clubName": "South Melbourne FC",
-    "clubContact": "multimedia@smfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "South Melbourne Womens FC",
-    "clubContact": "smwfc.operations@gmail.com",
-    "clubImg": null
+    "targetImgName": "rmit-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/05/01/36050128_1_T.jpg"
   },
   {
     "clubName": "South Yarra SC",
     "clubContact": "sysc@southyarrasc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988611_1_T.jpg"
+    "targetImgName": "south-yarra-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988611_1_T.jpg"
   },
   {
     "clubName": "St Kilda Soccer Club",
     "clubContact": "stkildasc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/41/60/2416042_1_T.jpg"
+    "targetImgName": "st-kilda-soccer-club.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/41/60/2416042_1_T.jpg"
   },
   {
     "clubName": "Yarra Jets FC",
     "clubContact": "yarrajets@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/84/48/35844826_1_T.jpg"
+    "targetImgName": "yarra-jets-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/84/48/35844826_1_T.jpg"
   },
   {
     "clubName": "Yarraville FC",
     "clubContact": "info@yarravilleglory.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/22/29/36222954_1_T.jpg"
-  },
-  {
-    "clubName": "Aston Athletic FC",
-    "clubContact": "astonathleticfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Boronia Junior SC",
-    "clubContact": "boronia.jsc@gmail.com",
-    "clubImg": null
+    "targetImgName": "yarraville-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/22/29/36222954_1_T.jpg"
   },
   {
     "clubName": "Brandon Park SC",
     "clubContact": "info@brandonparkfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988887_1_T.jpg"
+    "targetImgName": "brandon-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988887_1_T.jpg"
   },
   {
     "clubName": "Bunyip District SC",
     "clubContact": "bunyipsc3815@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/69/45/36694537_1_T.jpg"
+    "targetImgName": "bunyip-district-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/69/45/36694537_1_T.jpg"
   },
   {
     "clubName": "Chisholm United FC",
     "clubContact": "kprok007@optusnet.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/93/35/2933551_1_T.jpg"
-  },
-  {
-    "clubName": "Croydon City Arrows SC",
-    "clubContact": "secretary@croydoncitysc.org.au",
-    "clubImg": null
+    "targetImgName": "chisholm-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/93/35/2933551_1_T.jpg"
   },
   {
     "clubName": "Eastern Lions SC",
     "clubContact": "admin@easternlions.com.au",
-    "clubImg": null
+    "targetImgName": "eastern-lions-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954250_1_T.jpg"
   },
   {
     "clubName": "Glen Waverley SC",
     "clubContact": "info@glenwaverleysoccer.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/47/69/3476900_1_T.jpg"
-  },
-  {
-    "clubName": "Healesville SC",
-    "clubContact": "healesvillesoccerclub@outlook.com",
-    "clubImg": null
+    "targetImgName": "glen-waverley-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/47/69/3476900_1_T.jpg"
   },
   {
     "clubName": "Knox City FC",
     "clubContact": "info@knoxcityfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/25/98/2259885_1_T.jpg"
+    "targetImgName": "knox-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/25/98/2259885_1_T.jpg"
   },
   {
     "clubName": "Knox United SC",
     "clubContact": "mail@knoxunited.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989126_1_T.jpg"
-  },
-  {
-    "clubName": "Lilydale Eagles SC",
-    "clubContact": "lilydaleeagles@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Mazenod United Football Club",
-    "clubContact": "info@mazenodunitedfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Monash City SC",
-    "clubContact": "info@monashfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Monash University SC",
-    "clubContact": "committee@monashunisoccer.org",
-    "clubImg": null
+    "targetImgName": "knox-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989126_1_T.jpg"
   },
   {
     "clubName": "Monbulk Rangers SC",
     "clubContact": "info@monbulkrangers.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988604_1_T.jpg"
-  },
-  {
-    "clubName": "Montrose SC",
-    "clubContact": "montrosesoccerclub@hotmail.com",
-    "clubImg": null
+    "targetImgName": "monbulk-rangers-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988604_1_T.jpg"
   },
   {
     "clubName": "Mooroolbark SC",
     "clubContact": "secretary@thebarkers.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/45/1994535_1_T.jpg"
+    "targetImgName": "mooroolbark-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/45/1994535_1_T.jpg"
   },
   {
     "clubName": "Mount Waverley City SC",
     "clubContact": "enquiries@mountwaverleycitysoccer.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/50/97/3509713_1_T.jpg"
-  },
-  {
-    "clubName": "Mt Lilydale Old Collegians SC",
-    "clubContact": "info@mlocsc.com.au",
-    "clubImg": null
+    "targetImgName": "mount-waverley-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/50/97/3509713_1_T.jpg"
   },
   {
     "clubName": "Oakleigh Cannons FC",
     "clubContact": "oakleighcannons@internode.on.net",
-    "clubImg": null
+    "targetImgName": "oakleigh-cannons-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/20/80/2208060_1_T.jpg"
   },
   {
     "clubName": "Pakenham United FC",
     "clubContact": "pakenhamufc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/46/55/3465516_1_T.jpg"
+    "targetImgName": "pakenham-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/46/55/3465516_1_T.jpg"
   },
   {
     "clubName": "Ringwood City FC",
     "clubContact": "info@ringwoodcitysc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/61/00/36610032_1_T.jpg"
+    "targetImgName": "ringwood-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/61/00/36610032_1_T.jpg"
   },
   {
     "clubName": "Rowville Eagles SC",
     "clubContact": "refc.secretary@outlook.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/50/1995018_1_T.jpg"
-  },
-  {
-    "clubName": "Waverley Victory FC",
-    "clubContact": "secretary@waverleyvictory.com.au",
-    "clubImg": null
+    "targetImgName": "rowville-eagles-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/50/1995018_1_T.jpg"
   },
   {
     "clubName": "Waverley Wanderers FC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954205_1_T.jpg"
-  },
-  {
-    "clubName": "Drouin Dragons SC",
-    "clubContact": "ddsc.president@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Gippsland FC",
-    "clubContact": "admin@gippslandfc.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Inverloch Stars SC",
-    "clubContact": "soccer@inverlochstars.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Korumburra City SC",
-    "clubContact": "korumburracitysc.secretary@outlook.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Lang Lang United FC",
-    "clubContact": "langlangunited.president@outlook.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Leongatha Knights FC",
-    "clubContact": "gathaknights@outlook.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Mirboo North United FC",
-    "clubContact": "mnufc09@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Phillip Island SC",
-    "clubContact": "phillipislandsoccer@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Prom Coast SC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Wonthaggi United SC",
-    "clubContact": "wonthaggisoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Churchill United SC",
-    "clubContact": "Churchillrams@live.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "East Gippsland United FC",
-    "clubContact": "egufc3875@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Falcons 2000 SC",
-    "clubContact": "falcons2000rego.com.au@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Fortuna 60 SC",
-    "clubContact": "secretaryf60@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Moe United SC",
-    "clubContact": "moeunitedsc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Monash Soccer Club",
-    "clubContact": "monashsoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Morwell Pegasus SC",
-    "clubContact": "morwell.pegasus@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Newborough-Yallourn United SC",
-    "clubContact": "president@nyusc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Sale United FC",
-    "clubContact": "treasurer@saleunited.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Trafalgar Victory FC Inc.",
-    "clubContact": "admin@tvfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Traralgon City SC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Traralgon Olympians SC",
-    "clubContact": "traralgon.olympians@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Tyers SC",
-    "clubContact": "tyerssoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Alexandra Junior SC",
-    "clubContact": "alexsoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Benalla Rovers SC",
-    "clubContact": "registrar@benallarovers.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Bright SC",
-    "clubContact": "brightsoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Cobram Roar FC",
-    "clubContact": "cobramroarfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Cobram Junior Soccer Association",
-    "clubContact": "cobramjsa@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Euroa SC",
-    "clubContact": "euroasoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "FC Yackandandah",
-    "clubContact": "soccer@yackandandah.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Goulburn Valley Suns FC",
-    "clubContact": "admin@gvsuns.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Lake Hume SC",
-    "clubContact": "lakehumesc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Mansfield District SC",
-    "clubContact": "mansfielddistrictsoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Murray United FC",
-    "clubContact": "admin@murrayunitedfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Myrtleford Savoy SC",
-    "clubContact": "secretary@myrtlefordsoccer.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Numurkah SC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Shepparton Junior Soccer Association",
-    "clubContact": "secretary@sjsa.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Shepparton SC",
-    "clubContact": "sheppartonsc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Shepparton South SC",
-    "clubContact": "sheppsouthsc@outlook.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Shepparton United SC",
-    "clubContact": "sheppartonunited@bigpond.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Tatura SC",
-    "clubContact": "mimmolia@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Twin City Wanderers FC",
-    "clubContact": "registrar@tcwfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Wangaratta City FC",
-    "clubContact": "secretary@wangarattacityfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Wodonga Diamonds FC",
-    "clubContact": "secretary@wodongadiamondsfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Wodonga Heart FC",
-    "clubContact": "wodongaheartfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Bendigo City Football Club",
-    "clubContact": "admin@bendigocityfc.com.au",
-    "clubImg": null
+    "targetImgName": "waverley-wanderers-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954205_1_T.jpg"
   },
   {
     "clubName": "Castlemaine Goldfields FC",
     "clubContact": "registrations@castlemainegoldfieldsfc.net.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/00/77/3007780_1_T.jpg"
-  },
-  {
-    "clubName": "Colts United FC",
-    "clubContact": "info.coltsunited@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Eaglehawk SC",
-    "clubContact": "eaglehawksoccerclub@bigpond.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Epsom SC",
-    "clubContact": "epsomsc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Golden City SC (VIC)",
-    "clubContact": "goldencitysc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Irymple Knights SC",
-    "clubContact": "irympleknights@homemail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Kyabram Phoenix FC",
-    "clubContact": "kyabramphoenix@yahoo.com.au",
-    "clubImg": null
+    "targetImgName": "castlemaine-goldfields-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/00/77/3007780_1_T.jpg"
   },
   {
     "clubName": "Kyneton District SC",
     "clubContact": "kynetonsoccer@bigpond.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/74/06/1740620_1_T.jpg"
-  },
-  {
-    "clubName": "Mildura City SC",
-    "clubContact": "milduracitysoccer@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Mildura United SC",
-    "clubContact": "mildura.united.soccer@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Moama-Echuca Border Raiders Soccer Association",
-    "clubContact": "borderraidersinfo@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Nichols Point SC",
-    "clubContact": "pointerssc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Northern Suns FC",
-    "clubContact": "northernsunsfc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Spring Gully United SC",
-    "clubContact": "spring.gully.soccer@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Strathdale SC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Swan Hill Soccer League",
-    "clubContact": "admin@swanhillsoccer.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Three Colours SC",
-    "clubContact": "threecolourssc@live.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Alamein FC",
-    "clubContact": "info@alameinfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ashburton United SC",
-    "clubContact": "ashburtonsoccer@yahoo.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Boroondara Eagles FC",
-    "clubContact": "admin@befc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Box Hill United Pythagoras SC",
-    "clubContact": "enquiries@boxhillunited.com.au",
-    "clubImg": null
+    "targetImgName": "kyneton-district-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/74/06/1740620_1_T.jpg"
   },
   {
     "clubName": "Doncaster Rovers SC",
     "clubContact": "president@doncasterrovers.org",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/40/96/36409625_1_T.jpg"
-  },
-  {
-    "clubName": "East Kew Junior FC",
-    "clubContact": "eastkewjfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "doncaster-rovers-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/40/96/36409625_1_T.jpg"
   },
   {
     "clubName": "Eltham Redbacks FC",
     "clubContact": "secretary@elthamredbacksfc.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954258_1_T.jpg"
+    "targetImgName": "eltham-redbacks-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954258_1_T.jpg"
   },
   {
     "clubName": "FC Bulleen Lions",
     "clubContact": "fcblions@venetoclub.com",
-    "clubImg": null
+    "targetImgName": "fc-bulleen-lions.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954259_1_T.jpg"
   },
   {
     "clubName": "Juventus Old Boys SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/44/10/2441003_1_T.jpg"
-  },
-  {
-    "clubName": "Manningham United Blues FC",
-    "clubContact": "contact@manninghamunitedfc.com",
-    "clubImg": null
+    "targetImgName": "juventus-old-boys-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/44/10/2441003_1_T.jpg"
   },
   {
     "clubName": "Marcellin Old Collegians SC",
     "clubContact": "mocsc2001@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/19/64/2196432_1_T.jpg"
-  },
-  {
-    "clubName": "Nillumbik Junior SC",
-    "clubContact": "secretary@nillumbikjsc.org.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Nunawading City FC",
-    "clubContact": "contact@nunawadingcityfc.com.au",
-    "clubImg": null
+    "targetImgName": "marcellin-old-collegians-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/19/64/2196432_1_T.jpg"
   },
   {
     "clubName": "Old Camberwell Grammarians SC",
     "clubContact": "ocgwellers@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/09/92/3099261_1_T.jpg"
-  },
-  {
-    "clubName": "Old Carey SC",
-    "clubContact": "info@oldcareysoccerclub.com",
-    "clubImg": null
+    "targetImgName": "old-camberwell-grammarians-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/09/92/3099261_1_T.jpg"
   },
   {
     "clubName": "Old Scotch SC",
     "clubContact": "committee@ossc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/39/01/36390170_1_T.jpg"
+    "targetImgName": "old-scotch-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/39/01/36390170_1_T.jpg"
   },
   {
     "clubName": "Old Trinity Grammarians SC",
     "clubContact": "president@otgsc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/22/80/2228015_1_T.jpg"
+    "targetImgName": "old-trinity-grammarians-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/22/80/2228015_1_T.jpg"
   },
   {
     "clubName": "Old Xaverians SC",
     "clubContact": "club@oxsc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/83/1978313_1_T.jpg"
+    "targetImgName": "old-xaverians-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/83/1978313_1_T.jpg"
   },
   {
     "clubName": "Riversdale SC",
     "clubContact": "registrations@riversdalesc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/78/02/36780253_1_T.jpg"
+    "targetImgName": "riversdale-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/78/02/36780253_1_T.jpg"
   },
   {
     "clubName": "St Kevins Old Boys SC",
     "clubContact": "secretary@skobsc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/19/76/2197654_1_T.jpg"
-  },
-  {
-    "clubName": "Swinburne University SC",
-    "clubContact": "swinburnesoccer@gmail.com",
-    "clubImg": null
+    "targetImgName": "st-kevins-old-boys-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/19/76/2197654_1_T.jpg"
   },
   {
     "clubName": "Templestowe United FC",
     "clubContact": "bulleencommunityfc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/97/54/2975422_1_T.jpg"
+    "targetImgName": "templestowe-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/97/54/2975422_1_T.jpg"
   },
   {
     "clubName": "Whitehorse United SC",
     "clubContact": "ask.wusc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/26/45/2264533_1_T.jpg"
-  },
-  {
-    "clubName": "Wonga Park Wizards Junior FC",
-    "clubContact": "info@wongaparkwizards.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ascot Vale Vikings FC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "whitehorse-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/26/45/2264533_1_T.jpg"
   },
   {
     "clubName": "Avondale FC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/42/00/3420058_1_T.jpg"
+    "targetImgName": "avondale-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/42/00/3420058_1_T.jpg"
   },
   {
     "clubName": "Brunswick City SC",
     "clubContact": "info@brunswickcitysc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979472_1_T.jpg"
+    "targetImgName": "brunswick-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979472_1_T.jpg"
   },
   {
     "clubName": "Brunswick Zebras FC",
     "clubContact": "clarezeb@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/59/42/36594238_1_T.jpg"
-  },
-  {
-    "clubName": "Calder United FC",
-    "clubContact": "calderunitedsc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Campbellfield Lions Soccer Club",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Coburg City FC",
-    "clubContact": "coburgcityfc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Coonans Hill SC",
-    "clubContact": "Info@coonanshillsc.com.au",
-    "clubImg": null
+    "targetImgName": "brunswick-zebras-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/59/42/36594238_1_T.jpg"
   },
   {
     "clubName": "Craigieburn City FC",
     "clubContact": "craigieburncityfc@yahoo.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/92/17/2921779_1_T.jpg"
+    "targetImgName": "craigieburn-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/92/17/2921779_1_T.jpg"
   },
   {
     "clubName": "Essendon Royals SC",
     "clubContact": "secretary@essendonroyals.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/86/12/2861280_1_T.jpg"
+    "targetImgName": "essendon-royals-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/86/12/2861280_1_T.jpg"
   },
   {
     "clubName": "Essendon United FC",
     "clubContact": "essendon_united@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989056_1_T.jpg"
+    "targetImgName": "essendon-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989056_1_T.jpg"
   },
   {
     "clubName": "Fawkner SC",
     "clubContact": "fawknersc@fawknersc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771580_1_T.jpg"
+    "targetImgName": "fawkner-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/77/15/36771580_1_T.jpg"
   },
   {
     "clubName": "FC Strathmore",
     "clubContact": "info@strathmorefc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989068_1_T.jpg"
-  },
-  {
-    "clubName": "Gisborne Soccer Club",
-    "clubContact": "secretary@gisbornesoccerclub.com.au",
-    "clubImg": null
+    "targetImgName": "fc-strathmore.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989068_1_T.jpg"
   },
   {
     "clubName": "Greenvale United SC",
     "clubContact": "secretary@greenvaleunited.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/47/58/3475860_1_T.jpg"
-  },
-  {
-    "clubName": "Hume City FC",
-    "clubContact": "Info@humecityfc.com",
-    "clubImg": null
+    "targetImgName": "greenvale-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/47/58/3475860_1_T.jpg"
   },
   {
     "clubName": "Hume United FC",
     "clubContact": "humeunitedfc@yahoo.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/52/35695218_1_T.jpg"
-  },
-  {
-    "clubName": "Meadow Park SC",
-    "clubContact": "info@meadowparksc.com.au",
-    "clubImg": null
+    "targetImgName": "hume-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/69/52/35695218_1_T.jpg"
   },
   {
     "clubName": "Moonee Valley Knights FC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629547_1_T.jpg"
-  },
-  {
-    "clubName": "Moreland City SC",
-    "clubContact": "morelandcityfc@rocketmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Moreland Eagles FC",
-    "clubContact": "contactmorelandeaglesfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "moonee-valley-knights-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629547_1_T.jpg"
   },
   {
     "clubName": "Moreland United SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994725_1_T.jpg"
-  },
-  {
-    "clubName": "Moreland Zebras/Moreland Youth",
-    "clubContact": "info@morelandzebras.com",
-    "clubImg": null
+    "targetImgName": "moreland-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994725_1_T.jpg"
   },
   {
     "clubName": "Newmarket Phoenix FC",
     "clubContact": "newmarketphoenix@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/43/91/3439181_1_T.jpg"
-  },
-  {
-    "clubName": "North City Wolves FC",
-    "clubContact": "info@sportingmoreland.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Oak Park SC",
-    "clubContact": "oakparksc@hotmail.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Pascoe Vale SC",
-    "clubContact": "enquiries@pvsc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Roxburgh Park United FC",
-    "clubContact": "roxyunitedsc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Somerton City SC",
-    "clubContact": "somertoncity@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Sunbury United Junior SC",
-    "clubContact": "sunburyjsc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Sunbury United Senior SC",
-    "clubContact": "sunburyunitedfc@hotmail.com",
-    "clubImg": null
+    "targetImgName": "newmarket-phoenix-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/43/91/3439181_1_T.jpg"
   },
   {
     "clubName": "Upfield SC",
     "clubContact": "upfieldsc@outlook.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/93/05/2930579_1_T.jpg"
-  },
-  {
-    "clubName": "West Brunswick Wanderers FC",
-    "clubContact": "info@oldhillwanderers.com",
-    "clubImg": null
+    "targetImgName": "upfield-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/93/05/2930579_1_T.jpg"
   },
   {
     "clubName": "Banyule City SC",
     "clubContact": "banyulesc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/24/41/36244110_1_T.jpg"
+    "targetImgName": "banyule-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/24/41/36244110_1_T.jpg"
   },
   {
     "clubName": "Bundoora United FC",
     "clubContact": "bufcoffice@bundooraunitedfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/68/34/1683475_1_T.jpg"
+    "targetImgName": "bundoora-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/68/34/1683475_1_T.jpg"
   },
   {
     "clubName": "Darebin Falcons Womens SC",
     "clubContact": "soccer@falcons.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988648_1_T.jpg"
+    "targetImgName": "darebin-falcons-womens-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988648_1_T.jpg"
   },
   {
     "clubName": "Darebin United SC",
     "clubContact": "darebinunitedsc@yahoo.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989029_1_T.jpg"
+    "targetImgName": "darebin-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989029_1_T.jpg"
   },
   {
     "clubName": "Diamond Valley United SC",
     "clubContact": "diamondvalley@live.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/99/27/35992799_1_T.jpg"
+    "targetImgName": "diamond-valley-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/99/27/35992799_1_T.jpg"
   },
   {
     "clubName": "Epping City SC",
     "clubContact": "eppingcityfc@bigpond.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989045_1_T.jpg"
+    "targetImgName": "epping-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989045_1_T.jpg"
   },
   {
     "clubName": "Heidelberg Eagles SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989118_1_T.jpg"
-  },
-  {
-    "clubName": "Heidelberg Stars SC",
-    "clubContact": "heidelbergstars@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Heidelberg United SC",
-    "clubContact": "admin@hufc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ivanhoe City SC",
-    "clubContact": "info@ivanhoecitysc.com.au",
-    "clubImg": null
+    "targetImgName": "heidelberg-eagles-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989118_1_T.jpg"
   },
   {
     "clubName": "Keon Park SC",
     "clubContact": "keonparksoccerclub@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/10/51/36105134_1_T.jpg"
-  },
-  {
-    "clubName": "Kingsbury United SC",
-    "clubContact": "info@kingsburyunitedsoccerclub.org.au",
-    "clubImg": null
+    "targetImgName": "keon-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/10/51/36105134_1_T.jpg"
   },
   {
     "clubName": "La Trobe University SC",
     "clubContact": "latrobeunisoccer@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954142_1_T.jpg"
+    "targetImgName": "la-trobe-university-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954142_1_T.jpg"
   },
   {
     "clubName": "Lalor United Junior SC",
     "clubContact": "lalorunitedjfc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/66/66/36666642_1_T.jpg"
+    "targetImgName": "lalor-united-junior-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/66/66/36666642_1_T.jpg"
   },
   {
     "clubName": "Lalor United Senior FC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739616_1_T.jpg"
+    "targetImgName": "lalor-united-senior-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739616_1_T.jpg"
   },
   {
     "clubName": "Mill Park SC",
     "clubContact": "millparksc@bigpond.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/38/58/36385863_1_T.jpg"
+    "targetImgName": "mill-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/38/58/36385863_1_T.jpg"
   },
   {
     "clubName": "Mitchell Rangers SC",
     "clubContact": "info@mitchellrangers.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/09/64/36096401_1_T.jpg"
+    "targetImgName": "mitchell-rangers-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/09/64/36096401_1_T.jpg"
   },
   {
     "clubName": "Northcote City FC",
     "clubContact": "info@northcotecity.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Northern Falcons SC",
-    "clubContact": "northernfalconsfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Old Ivanhoe Grammarians Soccer Club",
-    "clubContact": "oldivanhoesc@gmail.com",
-    "clubImg": null
+    "targetImgName": "northcote-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/22/48/2224835_1_T.jpg"
   },
   {
     "clubName": "Plenty Valley Lions FC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/49/1994944_1_T.jpg"
+    "targetImgName": "plenty-valley-lions-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/49/1994944_1_T.jpg"
   },
   {
     "clubName": "Preston Lions FC",
     "clubContact": "info@plfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979495_1_T.jpg"
-  },
-  {
-    "clubName": "Reservoir Yeti SC",
-    "clubContact": "yetifc2001@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Sporting Whittlesea FC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Thomastown Raiders FC",
-    "clubContact": "thomastownraiders@gmail.com",
-    "clubImg": null
+    "targetImgName": "preston-lions-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/94/1979495_1_T.jpg"
   },
   {
     "clubName": "Thornbury Athletic FC",
     "clubContact": "club@thornburyathleticfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/69/64/35696499_1_T.jpg"
+    "targetImgName": "thornbury-athletic-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/69/64/35696499_1_T.jpg"
   },
   {
     "clubName": "Watsonia Heights FC",
     "clubContact": "secretary@whfc.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/20/36732052_1_T.jpg"
+    "targetImgName": "watsonia-heights-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/20/36732052_1_T.jpg"
   },
   {
     "clubName": "West Preston SC",
     "clubContact": "westprestonsc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/72/97/36729759_1_T.jpg"
+    "targetImgName": "west-preston-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/72/97/36729759_1_T.jpg"
   },
   {
     "clubName": "Whittlesea Ranges FC",
     "clubContact": "whittlesearangesfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "whittlesea-ranges-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/86/55/2865516_7_T.jpg"
   },
   {
     "clubName": "Whittlesea United SC",
     "clubContact": "info@whittleseaunited.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/72/43/35724332_1_T.jpg"
+    "targetImgName": "whittlesea-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/72/43/35724332_1_T.jpg"
   },
   {
     "clubName": "Aspendale SC",
     "clubContact": "registrations@aspendalesc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/35/42/3354209_1_T.jpg"
+    "targetImgName": "aspendale-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/35/42/3354209_1_T.jpg"
   },
   {
     "clubName": "Bayside Argonauts FC",
     "clubContact": "info@baysideargonauts.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988868_1_T.jpg"
-  },
-  {
-    "clubName": "Bayside United FC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "bayside-argonauts-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988868_1_T.jpg"
   },
   {
     "clubName": "Beaumaris SC",
     "clubContact": "registrar@beaumarissc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954203_1_T.jpg"
-  },
-  {
-    "clubName": "Bentleigh Greens SC",
-    "clubContact": "info@bentleighgreens.com.au",
-    "clubImg": null
+    "targetImgName": "beaumaris-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954203_1_T.jpg"
   },
   {
     "clubName": "Brighton SC (VIC)",
     "clubContact": "admin@brightonsc.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/05/24/3052409_1_T.jpg"
-  },
-  {
-    "clubName": "Caulfield United Cobras SC",
-    "clubContact": "info@cobrasfc.com.au",
-    "clubImg": null
+    "targetImgName": "brighton-sc-(vic).jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/05/24/3052409_1_T.jpg"
   },
   {
     "clubName": "Chelsea FC",
     "clubContact": "chelseafootballclubaustralia@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/92/00/2920085_1_T.jpg"
+    "targetImgName": "chelsea-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/92/00/2920085_1_T.jpg"
   },
   {
     "clubName": "Clarinda United FC",
     "clubContact": "clarindaunited@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/74/37/36743751_1_T.jpg"
+    "targetImgName": "clarinda-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/74/37/36743751_1_T.jpg"
   },
   {
     "clubName": "Dingley Stars FC",
     "clubContact": "secretary@dingleystarsfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/46/75/3467518_1_T.jpg"
+    "targetImgName": "dingley-stars-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/46/75/3467518_1_T.jpg"
   },
   {
     "clubName": "East Bentleigh SC",
     "clubContact": "ebreg@eastbentleighsc.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "East Brighton United FC",
-    "clubContact": "ebufc1999@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Glen Eira FC",
-    "clubContact": "info@gleneirasoccer.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Hampton Dolphins FC",
-    "clubContact": "dolphinsjfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Hampton Junior SC",
-    "clubContact": "info@hamptonsoccer.com.au",
-    "clubImg": null
+    "targetImgName": "east-bentleigh-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/77/02/36770218_1_T.jpg"
   },
   {
     "clubName": "Kingston City FC",
     "clubContact": "admin@kingston-cityfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Maccabi FC Caulfield",
-    "clubContact": "registrations@mcfc.com.au",
-    "clubImg": null
+    "targetImgName": "kingston-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/92/1979295_1_T.jpg"
   },
   {
     "clubName": "North Caulfield Senior FC",
     "clubContact": "directoroffootball@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/11/14/2111400_1_T.jpg"
+    "targetImgName": "north-caulfield-senior-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/11/14/2111400_1_T.jpg"
   },
   {
     "clubName": "Sandringham SC",
     "clubContact": "info@sandringhamsoccerclub.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/85/1988551_1_T.jpg"
+    "targetImgName": "sandringham-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/85/1988551_1_T.jpg"
   },
   {
     "clubName": "Baxter SC",
     "clubContact": "baxtersc@baxtersoccerclub.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988860_1_T.jpg"
+    "targetImgName": "baxter-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988860_1_T.jpg"
   },
   {
     "clubName": "Berwick City SC",
     "clubContact": "berwickcityfc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954195_1_T.jpg"
+    "targetImgName": "berwick-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954195_1_T.jpg"
   },
   {
     "clubName": "Casey Comets FC",
     "clubContact": "admin@caseycomets.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/45/74/3457405_1_T.jpg"
+    "targetImgName": "casey-comets-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/45/74/3457405_1_T.jpg"
   },
   {
     "clubName": "Casey Kings FC",
     "clubContact": "caseykingsfc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989003_1_T.jpg"
-  },
-  {
-    "clubName": "Casey Panthers SC",
-    "clubContact": "caseypanthers@hotmail.com",
-    "clubImg": null
+    "targetImgName": "casey-kings-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989003_1_T.jpg"
   },
   {
     "clubName": "Cleeland United SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/13/69/36136948_1_T.jpg"
+    "targetImgName": "cleeland-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/13/69/36136948_1_T.jpg"
   },
   {
     "clubName": "Dandenong City SC",
     "clubContact": "admin@dandenongcityfc.com",
-    "clubImg": null
+    "targetImgName": "dandenong-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954246_1_T.jpg"
   },
   {
     "clubName": "Dandenong South SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/93/45/2934584_1_T.jpg"
+    "targetImgName": "dandenong-south-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/93/45/2934584_1_T.jpg"
   },
   {
     "clubName": "Dandenong Thunder SC",
     "clubContact": "dandenongthunder@live.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954245_1_T.jpg"
-  },
-  {
-    "clubName": "Dandenong Warriors FC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "dandenong-thunder-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954245_1_T.jpg"
   },
   {
     "clubName": "Doveton SC",
     "clubContact": "dovetonsc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954247_1_T.jpg"
+    "targetImgName": "doveton-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/42/1954247_1_T.jpg"
   },
   {
     "clubName": "Endeavour Hills SC",
     "clubContact": "ehssc@hotmail.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/60/00/36600073_1_T.jpg"
+    "targetImgName": "endeavour-hills-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/60/00/36600073_1_T.jpg"
   },
   {
     "clubName": "Endeavour United SC",
     "clubContact": "endeavourunitedsc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/35/67/36356798_1_T.jpg"
+    "targetImgName": "endeavour-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/35/67/36356798_1_T.jpg"
   },
   {
     "clubName": "Frankston Pines FC",
     "clubContact": "frankstonpinesfc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/86/10/1861092_1_T.jpg"
+    "targetImgName": "frankston-pines-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/86/10/1861092_1_T.jpg"
   },
   {
     "clubName": "Hampton Park United Sparrows FC",
     "clubContact": "info@hpusfc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989117_1_T.jpg"
-  },
-  {
-    "clubName": "Harrisfield Hurricanes SC",
-    "clubContact": "info@hhsc.com.au",
-    "clubImg": null
+    "targetImgName": "hampton-park-united-sparrows-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989117_1_T.jpg"
   },
   {
     "clubName": "Heatherton United SC",
     "clubContact": "heathertonutd.sc@hotmail.com",
-    "clubImg": null
+    "targetImgName": "heatherton-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/88/36738842_1_T.jpg"
   },
   {
     "clubName": "James Cook FC",
     "clubContact": "endeavoursportingclub@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/19/54/2195416_1_T.jpg"
+    "targetImgName": "james-cook-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/19/54/2195416_1_T.jpg"
   },
   {
     "clubName": "Keysborough SC",
     "clubContact": "keysboroughsc@yahoo.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/51/92/2519296_1_T.jpg"
-  },
-  {
-    "clubName": "Langwarrin SC",
-    "clubContact": "info@langwarrinsoccerclub.org.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Lyndale United SC",
-    "clubContact": "info@lyndaleunitedfc.com",
-    "clubImg": null
+    "targetImgName": "keysborough-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/51/92/2519296_1_T.jpg"
   },
   {
     "clubName": "Mornington SC",
     "clubContact": "secretary@morningtonsoccerclub.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/73/15/35731517_1_T.jpg"
-  },
-  {
-    "clubName": "Mount Eliza Soccer Club",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "mornington-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/73/15/35731517_1_T.jpg"
   },
   {
     "clubName": "Mount Martha Soccer Club",
     "clubContact": "info@mmjsc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/94/41/35944141_1_T.jpg"
-  },
-  {
-    "clubName": "Narre Warren Wanderers SC",
-    "clubContact": "nwwsc2014@gmail.com",
-    "clubImg": null
+    "targetImgName": "mount-martha-soccer-club.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/94/41/35944141_1_T.jpg"
   },
   {
     "clubName": "Noble Park SC",
     "clubContact": "info@nobleparksc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/64/13/1641345_1_T.jpg"
+    "targetImgName": "noble-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/64/13/1641345_1_T.jpg"
   },
   {
     "clubName": "Noble Park United FC",
     "clubContact": "npufc-drina@live.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738017_1_T.jpg"
-  },
-  {
-    "clubName": "Old Mentonians SC",
-    "clubContact": "omsc.info@gmail.com",
-    "clubImg": null
+    "targetImgName": "noble-park-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/80/36738017_1_T.jpg"
   },
   {
     "clubName": "Parkmore SC",
     "clubContact": "info@parkmoresc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/03/05/3030520_1_T.jpg"
+    "targetImgName": "parkmore-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/03/05/3030520_1_T.jpg"
   },
   {
     "clubName": "Peninsula Strikers Junior FC",
     "clubContact": "payment@peninsula.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/97/1979742_1_T.jpg"
+    "targetImgName": "peninsula-strikers-junior-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/97/1979742_1_T.jpg"
   },
   {
     "clubName": "Peninsula Strikers Senior FC",
     "clubContact": "president@peninsulastrikers.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/49/37/2493742_1_T.jpg"
-  },
-  {
-    "clubName": "Rosebud Heart Junior SC",
-    "clubContact": "info@rosebudheart.com.au",
-    "clubImg": null
+    "targetImgName": "peninsula-strikers-senior-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/49/37/2493742_1_T.jpg"
   },
   {
     "clubName": "Rosebud SC",
     "clubContact": "secretary.rosebudsoccerclub@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/45/41/36454166_1_T.jpg"
+    "targetImgName": "rosebud-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/45/41/36454166_1_T.jpg"
   },
   {
     "clubName": "Sandown Lions FC",
     "clubContact": "sandownl@yahoo.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/35/70/96/35709666_1_T.jpg"
+    "targetImgName": "sandown-lions-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/35/70/96/35709666_1_T.jpg"
   },
   {
     "clubName": "Seaford United SC",
     "clubContact": "suscinfo@seafordunited.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/76/97/36769720_1_T.jpg"
+    "targetImgName": "seaford-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/76/97/36769720_1_T.jpg"
   },
   {
     "clubName": "Skye United FC",
     "clubContact": "secretary.skyeutd@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/68/87/1688794_1_T.jpg"
-  },
-  {
-    "clubName": "South Springvale SC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Southern United FC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "skye-united-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/68/87/1688794_1_T.jpg"
   },
   {
     "clubName": "Springvale City SC",
     "clubContact": "springvalecitysc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/23/02/36230286_1_T.jpg"
-  },
-  {
-    "clubName": "Springvale White Eagles FC",
-    "clubContact": "springvalewhiteeaglesfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "springvale-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/23/02/36230286_1_T.jpg"
   },
   {
     "clubName": "Warragul United SC",
     "clubContact": "warragulsc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994707_1_T.jpg"
-  },
-  {
-    "clubName": "Westernport SC",
-    "clubContact": "westernportsc@outlook.com",
-    "clubImg": null
+    "targetImgName": "warragul-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994707_1_T.jpg"
   },
   {
     "clubName": "White Star Dandenong SC",
     "clubContact": "whitestardandenong@outlook.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/26/84/3268442_1_T.jpg"
+    "targetImgName": "white-star-dandenong-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/26/84/3268442_1_T.jpg"
   },
   {
     "clubName": "Altona City SC",
     "clubContact": "altonacitysoccerclub@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739679_1_T.jpg"
+    "targetImgName": "altona-city-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/96/36739679_1_T.jpg"
   },
   {
     "clubName": "Altona East Phoenix SC",
     "clubContact": "altonaeastfc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954139_1_T.jpg"
+    "targetImgName": "altona-east-phoenix-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954139_1_T.jpg"
   },
   {
     "clubName": "Altona Lions FC",
     "clubContact": "ailsc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/05/23/3052395_1_T.jpg"
+    "targetImgName": "altona-lions-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/05/23/3052395_1_T.jpg"
   },
   {
     "clubName": "Altona Magic SC",
     "clubContact": "altonamagic@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/79/94/2799404_1_T.jpg"
+    "targetImgName": "altona-magic-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/79/94/2799404_1_T.jpg"
   },
   {
     "clubName": "Altona North SC",
     "clubContact": "admin@altonanorthsc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/87/1988724_1_T.jpg"
+    "targetImgName": "altona-north-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/87/1988724_1_T.jpg"
   },
   {
     "clubName": "Balmoral FC",
     "clubContact": "balmoralfc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/87/1988780_1_T.jpg"
+    "targetImgName": "balmoral-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/87/1988780_1_T.jpg"
   },
   {
     "clubName": "Barnstoneworth United Junior FC (VIC)",
     "clubContact": "secretary@bujfc.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988814_1_T.jpg"
+    "targetImgName": "barnstoneworth-united-junior-fc-(vic).jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988814_1_T.jpg"
   },
   {
     "clubName": "Brimbank Stallions FC",
     "clubContact": "info@brimbankstallionsfc.org.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/73/58/36735805_1_T.jpg"
-  },
-  {
-    "clubName": "Cairnlea FC",
-    "clubContact": "cairnleafc@hotmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Fox St Blues FC",
-    "clubContact": "foxstreetbluesfc@gmail.com",
-    "clubImg": null
+    "targetImgName": "brimbank-stallions-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/73/58/36735805_1_T.jpg"
   },
   {
     "clubName": "Green Gully SC",
     "clubContact": "ggullysc@bigpond.net.au",
-    "clubImg": null
+    "targetImgName": "green-gully-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/86/1978690_1_T.jpg"
   },
   {
     "clubName": "Hoppers Crossing SC",
     "clubContact": "info@hopperscrossingsc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989120_1_T.jpg"
+    "targetImgName": "hoppers-crossing-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989120_1_T.jpg"
   },
   {
     "clubName": "Keilor Park SC",
     "clubContact": "kpsoccerclub@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954138_1_T.jpg"
+    "targetImgName": "keilor-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954138_1_T.jpg"
   },
   {
     "clubName": "Keilor Wolves SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989124_1_T.jpg"
-  },
-  {
-    "clubName": "Laverton Park SC",
-    "clubContact": "lavertonpark@hotmail.com",
-    "clubImg": null
+    "targetImgName": "keilor-wolves-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/91/1989124_1_T.jpg"
   },
   {
     "clubName": "Melbourne City FC",
     "clubContact": "melbournecityfc@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/51/1995174_1_T.jpg"
+    "targetImgName": "melbourne-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/51/1995174_1_T.jpg"
   },
   {
     "clubName": "Melbourne Knights FC",
     "clubContact": "admin@melbourneknights.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/22/84/2228438_1_T.jpg"
+    "targetImgName": "melbourne-knights-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/22/84/2228438_1_T.jpg"
   },
   {
     "clubName": "Melton Phoenix FC",
     "clubContact": "meltonphoenixfc@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/96/50/1965062_1_T.jpg"
+    "targetImgName": "melton-phoenix-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/96/50/1965062_1_T.jpg"
   },
   {
     "clubName": "North Sunshine Eagles SC",
     "clubContact": "info@nsefc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/99/1979965_1_T.jpg"
-  },
-  {
-    "clubName": "Pannam Drive United FC",
-    "clubContact": "pdrunitedfcau@outlook.com",
-    "clubImg": null
+    "targetImgName": "north-sunshine-eagles-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/99/1979965_1_T.jpg"
   },
   {
     "clubName": "Point Cook FC",
     "clubContact": "info@pointcooksoccerclub.org",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629579_1_T.jpg"
-  },
-  {
-    "clubName": "Satellite City United SC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "point-cook-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629579_1_T.jpg"
   },
   {
     "clubName": "Spring Hills FC",
     "clubContact": "committee@springhillsfc.asn.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/10/58/36105812_1_T.jpg"
-  },
-  {
-    "clubName": "St Albans Saints SC",
-    "clubContact": "Info.juniors@stalbanssaints.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Sunshine George Cross SC",
-    "clubContact": "sgcfc@hotmail.com",
-    "clubImg": null
+    "targetImgName": "spring-hills-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/10/58/36105812_1_T.jpg"
   },
   {
     "clubName": "Sunshine Heights Junior SC",
     "clubContact": "theclub@sunshineheightsjsc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/99/55/1995511_1_T.jpg"
+    "targetImgName": "sunshine-heights-junior-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/55/1995511_1_T.jpg"
   },
   {
     "clubName": "Sydenham Park SC",
     "clubContact": "info@sydenhamparksc.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954165_1_T.jpg"
+    "targetImgName": "sydenham-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/95/41/1954165_1_T.jpg"
   },
   {
     "clubName": "Tarneit United SC",
     "clubContact": "tarneitunitedsc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Truganina Soccer Club Inc",
-    "clubContact": "truganinahornetssc@gmail.com",
-    "clubImg": null
+    "targetImgName": "tarneit-united-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/77/63/36776398_1_T.jpg"
   },
   {
     "clubName": "Werribee City FC",
     "clubContact": "werribeecityfc@iscw.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/97/91/1979142_1_T.jpg"
+    "targetImgName": "werribee-city-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/97/91/1979142_1_T.jpg"
   },
   {
     "clubName": "West Point SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/62/42/36624283_1_T.jpg"
+    "targetImgName": "west-point-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/62/42/36624283_1_T.jpg"
   },
   {
     "clubName": "Western Eagles SC",
     "clubContact": "westerneagles1950@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988632_1_T.jpg"
+    "targetImgName": "western-eagles-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/86/1988632_1_T.jpg"
   },
   {
     "clubName": "Western Suburbs SC",
     "clubContact": "wsfc@optusnet.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/68/18/36681840_1_T.jpg"
+    "targetImgName": "western-suburbs-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/68/18/36681840_1_T.jpg"
   },
   {
     "clubName": "Westgate FC",
     "clubContact": "westgatefc@optusnet.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/11/10/36111092_1_T.jpg"
+    "targetImgName": "westgate-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/11/10/36111092_1_T.jpg"
   },
   {
     "clubName": "Westside Strikers Caroline Springs FC",
     "clubContact": "westsidestrikers@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/93/71/2937118_1_T.jpg"
+    "targetImgName": "westside-strikers-caroline-springs-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/93/71/2937118_1_T.jpg"
   },
   {
     "clubName": "Westvale SC",
     "clubContact": "Westvalesc2011@hotmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/72/47/36724784_1_T.jpg"
+    "targetImgName": "westvale-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/72/47/36724784_1_T.jpg"
   },
   {
     "clubName": "Williamstown SC",
     "clubContact": "info@fcwilliamstown.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629580_1_T.jpg"
-  },
-  {
-    "clubName": "Wyndham Vale SC",
-    "clubContact": "wyndhamvalesoccer@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Bacchus Marsh SC",
-    "clubContact": "bacchusmarshscorpions@hotmail.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ballarat Eureka Strikers",
-    "clubContact": "ballarateurekastrikers@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ballarat North United SC",
-    "clubContact": "signup.bnusc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Ballarat Red Devils SC",
-    "clubContact": "brdmembersclub@gmail.com",
-    "clubImg": null
+    "targetImgName": "williamstown-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/62/95/3629580_1_T.jpg"
   },
   {
     "clubName": "Ballarat SC",
     "clubContact": "ballaratsoccerclub@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/68/66/36686681_1_T.jpg"
-  },
-  {
-    "clubName": "Barwon Heads SC",
-    "clubContact": "bhscsecretary@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Barwon SC",
-    "clubContact": "info@barwonsc.com.au",
-    "clubImg": null
+    "targetImgName": "ballarat-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/68/66/36686681_1_T.jpg"
   },
   {
     "clubName": "Bell Park SC",
     "clubContact": "secretary@bellparksportsclub.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988874_1_T.jpg"
-  },
-  {
-    "clubName": "Bellarine Sharks AFC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Breakwater Eagles SC",
-    "clubContact": "breakwatereagles1@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Buninyong Soccer Club",
-    "clubContact": "buninyong.soccer@yahoo.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Colac Otway Rovers AFC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Corangamite FC",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Corangamite Lions FC",
-    "clubContact": "admin@corangamitelions.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Corio Bay SC",
-    "clubContact": " ",
-    "clubImg": null
+    "targetImgName": "bell-park-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/88/1988874_1_T.jpg"
   },
   {
     "clubName": "Corio SC",
     "clubContact": "info@coriosoccerclub.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989022_1_T.jpg"
-  },
-  {
-    "clubName": "Creswick SC",
-    "clubContact": "creswicksoccerclub@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Daylesford & Hepburn United SC",
-    "clubContact": "secretary@daylesfordsoccerclub.com",
-    "clubImg": null
+    "targetImgName": "corio-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989022_1_T.jpg"
   },
   {
     "clubName": "Deakin University SC",
     "clubContact": "secretary.deakinducks@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/76/92/36769222_1_T.jpg"
-  },
-  {
-    "clubName": "Drysdale Soccer Club",
-    "clubContact": "info@drysdalesc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Elcho Park Cardinals FC",
-    "clubContact": "secretary@northgeelongsc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Forest Rangers SC (VIC)",
-    "clubContact": "info@forestrangerssc.com",
-    "clubImg": null
+    "targetImgName": "deakin-university-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/76/92/36769222_1_T.jpg"
   },
   {
     "clubName": "Geelong Rangers SC",
     "clubContact": " ",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989071_1_T.jpg"
+    "targetImgName": "geelong-rangers-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/98/90/1989071_1_T.jpg"
   },
   {
     "clubName": "Geelong SC",
     "clubContact": "geelongsc@live.com.au",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/36/44/23/36442348_1_T.jpg"
-  },
-  {
-    "clubName": "Golden Plains Soccer Club",
-    "clubContact": " ",
-    "clubImg": null
-  },
-  {
-    "clubName": "Greater Geelong Galaxy FC",
-    "clubContact": "secretary@galaxyunitedfc.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Hamilton SC",
-    "clubContact": "hamiltonsc3300@yahoo.com.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Horsham & District SC",
-    "clubContact": "hdscrego@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Kardinia International College",
-    "clubContact": "kardinia@kardinia.vic.edu.au",
-    "clubImg": null
-  },
-  {
-    "clubName": "Lara SC",
-    "clubContact": "laraunitedfc@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "Maryborough SC",
-    "clubContact": "maryboroughsoccer@gmail.com",
-    "clubImg": null
-  },
-  {
-    "clubName": "North Geelong Warriors SC",
-    "clubContact": "info@ngwfc.com.au",
-    "clubImg": null
+    "targetImgName": "geelong-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/36/44/23/36442348_1_T.jpg"
   },
   {
     "clubName": "Sebastopol Vikings SC",
     "clubContact": "info@sebasvikings.net",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/02/19/43/2194395_1_T.jpg"
+    "targetImgName": "sebastopol-vikings-sc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/02/19/43/2194395_1_T.jpg"
   },
   {
     "clubName": "Surf Coast FC",
     "clubContact": "surfcoastinfo@gmail.com",
-    "clubImg": "https://www-static.spulsecdn.net/pics/00/03/72/82/3728208_1_T.jpg"
+    "targetImgName": "surf-coast-fc.jpg",
+    "sourceImg": "https://www-static.spulsecdn.net/pics/00/03/72/82/3728208_1_T.jpg"
+  },
+  {
+    "clubName": "Central Park Soccer Club",
+    "clubContact": "centralparkrangersfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Kensington Junior Girls SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Maribyrnong Swifts FC",
+    "clubContact": "maribyrnongswiftsfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Port Melbourne Sharks SC",
+    "clubContact": "info@portmelbournesc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Richmond FC (VIC)",
+    "clubContact": "secretary@richmondsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "South Melbourne FC",
+    "clubContact": "multimedia@smfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "South Melbourne Womens FC",
+    "clubContact": "smwfc.operations@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Aston Athletic FC",
+    "clubContact": "astonathleticfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Boronia Junior SC",
+    "clubContact": "boronia.jsc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Croydon City Arrows SC",
+    "clubContact": "secretary@croydoncitysc.org.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Healesville SC",
+    "clubContact": "healesvillesoccerclub@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Lilydale Eagles SC",
+    "clubContact": "lilydaleeagles@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mazenod United Football Club",
+    "clubContact": "info@mazenodunitedfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Monash City SC",
+    "clubContact": "info@monashfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Monash University SC",
+    "clubContact": "committee@monashunisoccer.org",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Montrose SC",
+    "clubContact": "montrosesoccerclub@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mt Lilydale Old Collegians SC",
+    "clubContact": "info@mlocsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Waverley Victory FC",
+    "clubContact": "secretary@waverleyvictory.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Drouin Dragons SC",
+    "clubContact": "ddsc.president@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Gippsland FC",
+    "clubContact": "admin@gippslandfc.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Inverloch Stars SC",
+    "clubContact": "soccer@inverlochstars.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Korumburra City SC",
+    "clubContact": "korumburracitysc.secretary@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Lang Lang United FC",
+    "clubContact": "langlangunited.president@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Leongatha Knights FC",
+    "clubContact": "gathaknights@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mirboo North United FC",
+    "clubContact": "mnufc09@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Phillip Island SC",
+    "clubContact": "phillipislandsoccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Prom Coast SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wonthaggi United SC",
+    "clubContact": "wonthaggisoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Churchill United SC",
+    "clubContact": "Churchillrams@live.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "East Gippsland United FC",
+    "clubContact": "egufc3875@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Falcons 2000 SC",
+    "clubContact": "falcons2000rego.com.au@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Fortuna 60 SC",
+    "clubContact": "secretaryf60@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Moe United SC",
+    "clubContact": "moeunitedsc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Monash Soccer Club",
+    "clubContact": "monashsoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Morwell Pegasus SC",
+    "clubContact": "morwell.pegasus@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Newborough-Yallourn United SC",
+    "clubContact": "president@nyusc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Sale United FC",
+    "clubContact": "treasurer@saleunited.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Trafalgar Victory FC Inc.",
+    "clubContact": "admin@tvfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Traralgon City SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Traralgon Olympians SC",
+    "clubContact": "traralgon.olympians@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Tyers SC",
+    "clubContact": "tyerssoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Alexandra Junior SC",
+    "clubContact": "alexsoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Benalla Rovers SC",
+    "clubContact": "registrar@benallarovers.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bright SC",
+    "clubContact": "brightsoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Cobram Roar FC",
+    "clubContact": "cobramroarfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Cobram Junior Soccer Association",
+    "clubContact": "cobramjsa@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Euroa SC",
+    "clubContact": "euroasoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "FC Yackandandah",
+    "clubContact": "soccer@yackandandah.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Goulburn Valley Suns FC",
+    "clubContact": "admin@gvsuns.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Lake Hume SC",
+    "clubContact": "lakehumesc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mansfield District SC",
+    "clubContact": "mansfielddistrictsoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Murray United FC",
+    "clubContact": "admin@murrayunitedfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Myrtleford Savoy SC",
+    "clubContact": "secretary@myrtlefordsoccer.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Numurkah SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Shepparton Junior Soccer Association",
+    "clubContact": "secretary@sjsa.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Shepparton SC",
+    "clubContact": "sheppartonsc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Shepparton South SC",
+    "clubContact": "sheppsouthsc@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Shepparton United SC",
+    "clubContact": "sheppartonunited@bigpond.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Tatura SC",
+    "clubContact": "mimmolia@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Twin City Wanderers FC",
+    "clubContact": "registrar@tcwfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wangaratta City FC",
+    "clubContact": "secretary@wangarattacityfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wodonga Diamonds FC",
+    "clubContact": "secretary@wodongadiamondsfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wodonga Heart FC",
+    "clubContact": "wodongaheartfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bendigo City Football Club",
+    "clubContact": "admin@bendigocityfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Colts United FC",
+    "clubContact": "info.coltsunited@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Eaglehawk SC",
+    "clubContact": "eaglehawksoccerclub@bigpond.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Epsom SC",
+    "clubContact": "epsomsc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Golden City SC (VIC)",
+    "clubContact": "goldencitysc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Irymple Knights SC",
+    "clubContact": "irympleknights@homemail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Kyabram Phoenix FC",
+    "clubContact": "kyabramphoenix@yahoo.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mildura City SC",
+    "clubContact": "milduracitysoccer@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mildura United SC",
+    "clubContact": "mildura.united.soccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Moama-Echuca Border Raiders Soccer Association",
+    "clubContact": "borderraidersinfo@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Nichols Point SC",
+    "clubContact": "pointerssc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Northern Suns FC",
+    "clubContact": "northernsunsfc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Spring Gully United SC",
+    "clubContact": "spring.gully.soccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Strathdale SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Swan Hill Soccer League",
+    "clubContact": "admin@swanhillsoccer.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Three Colours SC",
+    "clubContact": "threecolourssc@live.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Alamein FC",
+    "clubContact": "info@alameinfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ashburton United SC",
+    "clubContact": "ashburtonsoccer@yahoo.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Boroondara Eagles FC",
+    "clubContact": "admin@befc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Box Hill United Pythagoras SC",
+    "clubContact": "enquiries@boxhillunited.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "East Kew Junior FC",
+    "clubContact": "eastkewjfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Manningham United Blues FC",
+    "clubContact": "contact@manninghamunitedfc.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Nillumbik Junior SC",
+    "clubContact": "secretary@nillumbikjsc.org.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Nunawading City FC",
+    "clubContact": "contact@nunawadingcityfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Old Carey SC",
+    "clubContact": "info@oldcareysoccerclub.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Swinburne University SC",
+    "clubContact": "swinburnesoccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wonga Park Wizards Junior FC",
+    "clubContact": "info@wongaparkwizards.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ascot Vale Vikings FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Calder United FC",
+    "clubContact": "calderunitedsc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Campbellfield Lions Soccer Club",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Coburg City FC",
+    "clubContact": "coburgcityfc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Coonans Hill SC",
+    "clubContact": "Info@coonanshillsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Gisborne Soccer Club",
+    "clubContact": "secretary@gisbornesoccerclub.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Hume City FC",
+    "clubContact": "Info@humecityfc.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Meadow Park SC",
+    "clubContact": "info@meadowparksc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Moreland City SC",
+    "clubContact": "morelandcityfc@rocketmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Moreland Eagles FC",
+    "clubContact": "contactmorelandeaglesfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Moreland Zebras/Moreland Youth",
+    "clubContact": "info@morelandzebras.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "North City Wolves FC",
+    "clubContact": "info@sportingmoreland.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Oak Park SC",
+    "clubContact": "oakparksc@hotmail.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Pascoe Vale SC",
+    "clubContact": "enquiries@pvsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Roxburgh Park United FC",
+    "clubContact": "roxyunitedsc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Somerton City SC",
+    "clubContact": "somertoncity@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Sunbury United Junior SC",
+    "clubContact": "sunburyjsc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Sunbury United Senior SC",
+    "clubContact": "sunburyunitedfc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "West Brunswick Wanderers FC",
+    "clubContact": "info@oldhillwanderers.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Heidelberg Stars SC",
+    "clubContact": "heidelbergstars@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Heidelberg United SC",
+    "clubContact": "admin@hufc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ivanhoe City SC",
+    "clubContact": "info@ivanhoecitysc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Kingsbury United SC",
+    "clubContact": "info@kingsburyunitedsoccerclub.org.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Northern Falcons SC",
+    "clubContact": "northernfalconsfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Old Ivanhoe Grammarians Soccer Club",
+    "clubContact": "oldivanhoesc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Reservoir Yeti SC",
+    "clubContact": "yetifc2001@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Sporting Whittlesea FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Thomastown Raiders FC",
+    "clubContact": "thomastownraiders@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bayside United FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bentleigh Greens SC",
+    "clubContact": "info@bentleighgreens.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Caulfield United Cobras SC",
+    "clubContact": "info@cobrasfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "East Brighton United FC",
+    "clubContact": "ebufc1999@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Glen Eira FC",
+    "clubContact": "info@gleneirasoccer.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Hampton Dolphins FC",
+    "clubContact": "dolphinsjfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Hampton Junior SC",
+    "clubContact": "info@hamptonsoccer.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Maccabi FC Caulfield",
+    "clubContact": "registrations@mcfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Casey Panthers SC",
+    "clubContact": "caseypanthers@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Dandenong Warriors FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Harrisfield Hurricanes SC",
+    "clubContact": "info@hhsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Langwarrin SC",
+    "clubContact": "info@langwarrinsoccerclub.org.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Lyndale United SC",
+    "clubContact": "info@lyndaleunitedfc.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Mount Eliza Soccer Club",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Narre Warren Wanderers SC",
+    "clubContact": "nwwsc2014@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Old Mentonians SC",
+    "clubContact": "omsc.info@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Rosebud Heart Junior SC",
+    "clubContact": "info@rosebudheart.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "South Springvale SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Southern United FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Springvale White Eagles FC",
+    "clubContact": "springvalewhiteeaglesfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Westernport SC",
+    "clubContact": "westernportsc@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Cairnlea FC",
+    "clubContact": "cairnleafc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Fox St Blues FC",
+    "clubContact": "foxstreetbluesfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Laverton Park SC",
+    "clubContact": "lavertonpark@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Pannam Drive United FC",
+    "clubContact": "pdrunitedfcau@outlook.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Satellite City United SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "St Albans Saints SC",
+    "clubContact": "Info.juniors@stalbanssaints.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Sunshine George Cross SC",
+    "clubContact": "sgcfc@hotmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Truganina Soccer Club Inc",
+    "clubContact": "truganinahornetssc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Wyndham Vale SC",
+    "clubContact": "wyndhamvalesoccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bacchus Marsh SC",
+    "clubContact": "bacchusmarshscorpions@hotmail.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ballarat Eureka Strikers",
+    "clubContact": "ballarateurekastrikers@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ballarat North United SC",
+    "clubContact": "signup.bnusc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Ballarat Red Devils SC",
+    "clubContact": "brdmembersclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Barwon Heads SC",
+    "clubContact": "bhscsecretary@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Barwon SC",
+    "clubContact": "info@barwonsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Bellarine Sharks AFC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Breakwater Eagles SC",
+    "clubContact": "breakwatereagles1@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Buninyong Soccer Club",
+    "clubContact": "buninyong.soccer@yahoo.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Colac Otway Rovers AFC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Corangamite FC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Corangamite Lions FC",
+    "clubContact": "admin@corangamitelions.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Corio Bay SC",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Creswick SC",
+    "clubContact": "creswicksoccerclub@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Daylesford & Hepburn United SC",
+    "clubContact": "secretary@daylesfordsoccerclub.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Drysdale Soccer Club",
+    "clubContact": "info@drysdalesc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Elcho Park Cardinals FC",
+    "clubContact": "secretary@northgeelongsc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Forest Rangers SC (VIC)",
+    "clubContact": "info@forestrangerssc.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Golden Plains Soccer Club",
+    "clubContact": " ",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Greater Geelong Galaxy FC",
+    "clubContact": "secretary@galaxyunitedfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Hamilton SC",
+    "clubContact": "hamiltonsc3300@yahoo.com.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Horsham & District SC",
+    "clubContact": "hdscrego@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Kardinia International College",
+    "clubContact": "kardinia@kardinia.vic.edu.au",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Lara SC",
+    "clubContact": "laraunitedfc@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "Maryborough SC",
+    "clubContact": "maryboroughsoccer@gmail.com",
+    "targetImgName": null,
+    "sourceImg": null
+  },
+  {
+    "clubName": "North Geelong Warriors SC",
+    "clubContact": "info@ngwfc.com.au",
+    "targetImgName": null,
+    "sourceImg": null
   },
   {
     "clubName": "Surfside Waves SC",
     "clubContact": "surfsidewaves@hotmail.com.au",
-    "clubImg": null
+    "targetImgName": null,
+    "sourceImg": null
   },
   {
     "clubName": "Victoria Park SC",
     "clubContact": "president.vicparkfc@gmail.com",
-    "clubImg": null
+    "targetImgName": null,
+    "sourceImg": null
   },
   {
     "clubName": "Warrnambool Rangers FC",
     "clubContact": " ",
-    "clubImg": null
+    "targetImgName": null,
+    "sourceImg": null
   },
   {
     "clubName": "Warrnambool Wolves FC",
     "clubContact": " ",
-    "clubImg": null
+    "targetImgName": null,
+    "sourceImg": null
   }
 ]
