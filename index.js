@@ -159,3 +159,5 @@ const uploadClubImagesToS3 = async () => {
 };
 
 uploadClubImagesToS3();
+
+//transformClubsToClubsAndImages();

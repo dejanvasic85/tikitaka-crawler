@@ -1,5 +1,11 @@
 [
   {
+    "clubName": "Melbourne Victory",
+    "clubContact": null,
+    "targetImgName": "melbourne-victory.jpg",
+    "sourceImg": "https://www-static3.spulsecdn.net/pics/00/03/40/74/3407494_1_O.jpg"
+  },
+  {
     "clubName": "Albert Park SC",
     "clubContact": "info@albertparksc.com.au",
     "targetImgName": "albert-park-sc.jpg",
@@ -117,6 +123,12 @@
     "clubName": "South Melbourne FC",
     "clubContact": "multimedia@smfc.com.au",
     "targetImgName": "south-melbourne-fc.jpg",
+    "sourceImg": "https://www-static3.spulsecdn.net/pics/00/03/39/48/3394818_1_O.jpg"
+  },
+  {
+    "clubName": "South Melbourne Womens FC",
+    "clubContact": "smwfc.operations@gmail.com",
+    "targetImgName": "south-melbourne-womens-fc.jpg",
     "sourceImg": "https://www-static3.spulsecdn.net/pics/00/03/39/48/3394818_1_O.jpg"
   },
   {
@@ -450,9 +462,9 @@
     "sourceImg": "https://www-static.spulsecdn.net/pics/00/01/99/47/1994725_1_T.jpg"
   },
   {
-    "clubName": "Moreland Zebras",
+    "clubName": "Moreland Zebras/Moreland Youth",
     "clubContact": "info@morelandzebras.com",
-    "targetImgName": "moreland-zebras-moreland-youth.jpg",
+    "targetImgName": "moreland-zebras/moreland-youth.jpg",
     "sourceImg": "https://www-static2.spulsecdn.net/pics/00/03/40/98/3409818_1_O.jpg"
   },
   {
